@@ -51,6 +51,7 @@ PRO блок по Jmeter
                                     SQL
 
 Основы SQL
+
 ![image](https://github.com/Zhirkin22/Sert/assets/163585803/c45ee289-dd1b-4500-9cdc-363f815d1d13)
 
 
@@ -59,6 +60,7 @@ PRO блок по Jmeter
 Основы Jenkins
 
 Jenkins Pipeline
+
 ![image](https://github.com/Zhirkin22/Sert/assets/163585803/60dc1188-79cd-4bc3-90f3-7af49dbfdee1)
 
 
@@ -69,6 +71,7 @@ GitLab
 Основы Git
 
 GitLab для CI/CD pipeline
+
 ![image](https://github.com/Zhirkin22/Sert/assets/163585803/465ea2d3-3f54-4c97-b5fb-91b081c0e0b9)
 
 
@@ -79,6 +82,7 @@ GitLab для CI/CD pipeline
 Работа с Docker
 
 CI/CD на базе Gitlab CI
+
 ![image](https://github.com/Zhirkin22/Sert/assets/163585803/5d8313c2-ce9c-41d6-b38c-7718c20dee79)
 
 
