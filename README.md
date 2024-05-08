@@ -26,7 +26,7 @@ GitLab
 ![image](https://github.com/Zhirkin22/Sert/assets/163585803/465ea2d3-3f54-4c97-b5fb-91b081c0e0b9)
 
 
-Kubernetes
+Kuber
 ![image](https://github.com/Zhirkin22/Sert/assets/163585803/5d8313c2-ce9c-41d6-b38c-7718c20dee79)
 
 
