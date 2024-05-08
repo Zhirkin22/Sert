@@ -14,7 +14,7 @@
 ![image](https://github.com/Zhirkin22/Sert/assets/163585803/e6960680-4f23-4d73-8db8-26719a72056e)
 
 
-Основы SQL
+SQL
 ![image](https://github.com/Zhirkin22/Sert/assets/163585803/c45ee289-dd1b-4500-9cdc-363f815d1d13)
 
 
