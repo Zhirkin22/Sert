@@ -86,15 +86,14 @@ CI/CD на базе Gitlab CI
 ![image](https://github.com/Zhirkin22/Sert/assets/163585803/5d8313c2-ce9c-41d6-b38c-7718c20dee79)
 
 
-                                   Docker
-
+                                       Docker
+          
 Основы Docker 
-
 Web Automation
 API Automation
 Mobile automation
 Test Management
-Infrastructure and notifications ![image](https://github.com/Zhirkin22/Sert/assets/163585803/17224b9e-83a0-47b0-a7ac-a57b7dc7ee1e)
+Infrastructure and notifications   ![image](https://github.com/Zhirkin22/Sert/assets/163585803/17224b9e-83a0-47b0-a7ac-a57b7dc7ee1e)
 
 
 
