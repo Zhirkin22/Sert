@@ -266,7 +266,7 @@ Infrastructure and notifications   ![image](https://github.com/Zhirkin22/Sert/as
 
   </td>
     <td width="70%">
-      <img src="image/kubernetes.png" width="100%" title="Kubernetes">
+      <![image](https://github.com/Zhirkin22/Sert/assets/163585803/5d8313c2-ce9c-41d6-b38c-7718c20dee79)>
     </td>
   </tr>
   
